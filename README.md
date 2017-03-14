@@ -55,4 +55,7 @@ var serviceUrl = ConfigurationManager.AppSettings["ServiceUrl"];
 ~~~
 
  
+ ## Ustawienia użytkownika
+ 
+ w trakcie szukania rozwiązania...
  
