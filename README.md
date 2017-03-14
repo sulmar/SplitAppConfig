@@ -1,5 +1,6 @@
 # SplitAppConfig
-Przykład pliku konfiguracyjnego z podzieleniem na kilka plików konfiguracyjnych
+Aplikacja demonstruje w jaki sposób można podzielić plik konfiguracyjny aplikacji App.config na kilka plików konfiguracyjnych.
+Takie podejście ułatwia utworzenie instalatora, który tylko częściowo powinien modyfikować ustawienia aplikacji.
 
 
 ## Connection String
