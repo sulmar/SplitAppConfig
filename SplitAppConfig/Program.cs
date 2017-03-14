@@ -12,7 +12,7 @@ namespace SplitAppConfig
         static void Main(string[] args)
         {
             var connection = ConfigurationManager.
-                ConnectionStrings["VidiaConnection"].ConnectionString;
+                ConnectionStrings["MyConnection"].ConnectionString;
 
 
             Console.WriteLine(connection);
